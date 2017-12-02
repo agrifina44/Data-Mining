@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1510582761198.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3727360608",
+    "id" : "78748F8C",
+    "lastKnownWriteTime" : 1510578344,
+    "last_content_update" : 1510578344,
+    "path" : "F:/Semester 7/Data Mining/Praktikum/PraktikumMarketBasketAnalysis_014/mining_rules_chiSquared.R",
+    "project_path" : "PraktikumMarketBasketAnalysis_014/mining_rules_chiSquared.R",
+    "properties" : {
+        "cursorPosition" : "19,22",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

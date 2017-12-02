@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1510580677315.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1114936214",
+    "id" : "8BA9F2D7",
+    "lastKnownWriteTime" : 1510576586,
+    "last_content_update" : 1510576586,
+    "path" : "F:/Semester 7/Data Mining/Praktikum/Prak1_mining_Rule.R",
+    "project_path" : "Prak1_mining_Rule.R",
+    "properties" : {
+        "cursorPosition" : "20,53",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

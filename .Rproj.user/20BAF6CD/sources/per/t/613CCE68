@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1510577047598.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3445276591",
+    "id" : "613CCE68",
+    "lastKnownWriteTime" : 1510580654,
+    "last_content_update" : 1510580654478,
+    "path" : "F:/Semester 7/Data Mining/Praktikum/mining_frequent_itemset.R",
+    "project_path" : "mining_frequent_itemset.R",
+    "properties" : {
+        "cursorPosition" : "22,57",
+        "scrollLine" : "3",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

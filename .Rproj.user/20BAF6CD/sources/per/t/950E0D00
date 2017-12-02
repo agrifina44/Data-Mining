@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1510582368398.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "323917521",
+    "id" : "950E0D00",
+    "lastKnownWriteTime" : 1510613520,
+    "last_content_update" : 1510613520657,
+    "path" : "F:/Semester 7/Data Mining/Praktikum/Tugas2_Prak1_mining_Rule.R",
+    "project_path" : "Tugas2_Prak1_mining_Rule.R",
+    "properties" : {
+        "cursorPosition" : "12,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

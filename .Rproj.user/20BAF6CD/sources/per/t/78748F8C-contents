@@ -1,0 +1,20 @@
+#load the libraries
+library("arules")
+
+# load the datasets
+data("Groceries")
+
+#Mining rules pf minimum length 5 and maximum length 5
+# with minimum support=.001, and minimum confidence=.5
+rules <- apriori(Groceries,
+                 parameter = list(support=.001,
+                                  confidence=.5,
+                                  target='rules'#to mine for rules
+                 ))
+#summary info of rules
+summary(rules)
+
+quality(rules)$chiSquared <- interestMeasure(rules, measure ='chiSquared', Groceries)
+
+#show top 10 results by lift
+inspect(sort(rules, by='chiSquared', decreasing = T)[1:5])
